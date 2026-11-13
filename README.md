@@ -6,7 +6,7 @@ Cisco Packet Tracer lab: HSRP gateway redundancy, EtherChannel, OSPF and EIGRP w
 This project builds a redundant enterprise-style network. The LAN uses two switches with EtherChannel and two routers running HSRP for first-hop redundancy. The routers connect to a core router through OSPF and EIGRP, and an eBGP link connects to an external network that hosts a server.
 
 ## Topology
-![Network Topology](topology.png)
+![Network Topology](topology1.png)
 
 ## Network Design
 
